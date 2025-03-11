@@ -23,9 +23,11 @@ Outpatients are those patients that receives medical treatment without being in 
 
 •	Current total waiting list
 
+
 •	Views required
 
 •	Summary page
 
 •	Detailed page for granular analysis
+![summary](https://github.com/user-attachments/assets/25061d42-bc2d-45ff-acf7-df58d58d4b22)
 
